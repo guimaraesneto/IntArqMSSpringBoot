@@ -1,0 +1,5 @@
+package br.com.javamagazine.promocoes.domain;
+
+public class Pacote {
+
+}

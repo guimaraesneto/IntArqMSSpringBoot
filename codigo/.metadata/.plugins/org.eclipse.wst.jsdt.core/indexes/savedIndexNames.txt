@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/guimaraes/Google Drive/Devmedia/SPRING/artigo/IntrAqMSSpringBoot/codigo/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1523281447.index
+2310431768.index
+4019747778.index
+711118483.index
+805884137.index
+3077002366.index

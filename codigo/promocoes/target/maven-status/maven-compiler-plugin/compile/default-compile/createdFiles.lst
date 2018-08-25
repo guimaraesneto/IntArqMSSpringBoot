@@ -1,0 +1,6 @@
+br/com/javamagazine/promocoes/config/AppConfig.class
+br/com/javamagazine/promocoes/service/PacoteService.class
+br/com/javamagazine/promocoes/repository/PacoteRepository.class
+br/com/javamagazine/promocoes/controller/PacoteController.class
+br/com/javamagazine/promocoes/domain/Pacote.class
+br/com/javamagazine/promocoes/service/impl/PacoteServiceImpl.class

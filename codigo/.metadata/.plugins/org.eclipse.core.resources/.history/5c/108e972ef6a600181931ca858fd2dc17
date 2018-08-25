@@ -1,0 +1,5 @@
+package br.com.javamagazine.promocoes.config;
+
+public class AppConfig {
+
+}
